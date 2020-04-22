@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Editor</string>
+    <string name="external">external</string>
+    <string name="pub">pub</string>
+    <string name="internal">internal</string>
+    <string name="msg_sorry">sorry we need permissions</string>
+</resources>

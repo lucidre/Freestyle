@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appwidget" />
+            <option value="$PROJECT_DIR$/empublite" />
+            <option value="$PROJECT_DIR$/eventbuses" />
+            <option value="$PROJECT_DIR$/fileeditor" />
+            <option value="$PROJECT_DIR$/floatingactionbutton" />
+            <option value="$PROJECT_DIR$/permissions" />
+            <option value="$PROJECT_DIR$/prefrencesmanagement" />
+            <option value="$PROJECT_DIR$/progresslength" />
+            <option value="$PROJECT_DIR$/recyclerviewtutorial" />
+            <option value="$PROJECT_DIR$/runnable" />
+            <option value="$PROJECT_DIR$/swipeuppicture" />
+            <option value="$PROJECT_DIR$/swipingactivityanimation" />
+            <option value="$PROJECT_DIR$/thread" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
